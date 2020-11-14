@@ -4,6 +4,12 @@
 
 ![gopher-emon](001-gopher-emon.png)
 
+## CLI Installation
+
+```console
+go get github.com/zztkm/gopher-emon/cmd/gopheremon
+```
+
 ## License
 
 This code is provided under the [MIT license](./LICENSE).
