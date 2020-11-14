@@ -39,6 +39,10 @@ module.exports = {
               label: 'GopherEmon',
               to: 'docs/',
             },
+            {
+              label: 'CLI installation',
+              to: 'docs/installation',
+            },
           ],
         },
         {
