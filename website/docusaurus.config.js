@@ -79,7 +79,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           path: 'docs',
           editUrl:
-            'https://github.com/zztkm/gopher-emon/edit/master/website/',
+            'https://github.com/zztkm/gopher-emon/edit/main/website/',
           remarkPlugins: [],
           rehypePlugins: [],
           showLastUpdateAuthor: true,
@@ -90,7 +90,7 @@ module.exports = {
           showReadingTime: true,
           path: 'blog',
           editUrl:
-            'https://github.com/zztkm/gopher-emon/edit/master/website/blog/',
+            'https://github.com/zztkm/gopher-emon/edit/main/website/blog/',
           routeBasePath: 'blog',
           remarkPlugins: [],
           rehypePlugins: [],
