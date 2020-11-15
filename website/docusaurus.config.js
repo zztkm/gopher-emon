@@ -91,7 +91,6 @@ module.exports = {
           path: 'blog',
           editUrl:
             'https://github.com/zztkm/gopher-emon/edit/main/website/blog/',
-          routeBasePath: 'blog',
           remarkPlugins: [],
           rehypePlugins: [],
         },
