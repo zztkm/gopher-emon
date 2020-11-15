@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    GopherEmon: ['doc1', 'license'],
-    "GopherEmon CLI": ['installation'],
+    GopherEmon: ['doc1'],
+    "GopherEmon CLI": ['installation', 'license'],
   },
 };
